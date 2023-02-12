@@ -32,6 +32,10 @@ man or help:
 
 <li>sh (Run sh as well)</li>
 
+# Learning Objectives
+
+At the end of this project, you are expected to be able to explain to anyone, **without the help of Google:**
+
 # how to built a simple shell.
 
 ## compilation
