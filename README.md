@@ -19,6 +19,10 @@ Write a simple UNIX command interpreter.
 
 https://en.m.wikipedia.org/wiki/Unix_shell
 
+<li>Thompson shell</li>
+
+https://en.m.wikipedia.org/wiki/Thompson_shell
+
 # how to built a simple shell.
 
 ## compilation
