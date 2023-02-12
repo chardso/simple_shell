@@ -1,3 +1,9 @@
+# Concepts
+
+For this project, we expect you to look at these concepts:
+
+
+
 # how to built a simple shell.
 
 ## compilation
@@ -7,5 +13,4 @@
 <li>gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh</li>
 
 
-### steps in creating a simple shell
-
+### steps in creating a simple shell.
