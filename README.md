@@ -1,6 +1,8 @@
 # Concepts
 
 For this project, we expect you to look at these concepts:
+<li>Everything you need to know about to start coding your own shell</li> 
+https://intranet.alxswe.com/concepts/64</li>
 
 
 
