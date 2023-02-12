@@ -26,6 +26,11 @@ https://en.m.wikipedia.org/wiki/Thompson_shell
 <li>Ken Thompson</li> 
 
 https://en.m.wikipedia.org/wiki/Ken_Thompson
+<li>Everything you need to know to start coding your own shell</li> concept page
+
+man or help:
+
+<li>sh (Run sh as well)</li>
 
 # how to built a simple shell.
 
