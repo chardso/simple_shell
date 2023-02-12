@@ -9,7 +9,7 @@ https://intranet.alxswe.com/concepts/350
 # Background Context
 
 Write a simple UNIX command interpreter.
-
+![](/shell.jpeg)
 
 
 # how to built a simple shell.
