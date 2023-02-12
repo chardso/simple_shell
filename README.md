@@ -14,6 +14,11 @@ Write a simple UNIX command interpreter.
 ^ “The Gates of Shell”, by [Spencer cheng](https://twitter.com/spencerhcheng?t=DwLSuyvjkNLd7_7rHnUFwQ&s=09) , featuring [Julien Barbier](https://twitter.com/julienbarbier42?t=aYUjppVyruQUVkDuBGDXog&s=09) 
 # Resources
 **Read or watch:**
+
+<li>UNIX</li>
+
+https://en.m.wikipedia.org/wiki/Unix_shell
+
 # how to built a simple shell.
 
 ## compilation
