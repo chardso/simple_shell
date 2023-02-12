@@ -23,6 +23,10 @@ https://en.m.wikipedia.org/wiki/Unix_shell
 
 https://en.m.wikipedia.org/wiki/Thompson_shell
 
+<li>Ken Thompson</li> 
+
+https://en.m.wikipedia.org/wiki/Ken_Thompson
+
 # how to built a simple shell.
 
 ## compilation
