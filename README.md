@@ -12,7 +12,7 @@ Write a simple UNIX command interpreter.
 
 ![](/shell.jpeg)
 
-^ “The Gates of Shell”, by , featuring 
+^ “The Gates of Shell”, by [Spencer cheng](https://twitter.com/spencerhcheng?t=DwLSuyvjkNLd7_7rHnUFwQ&s=09) , featuring 
 
 # how to built a simple shell.
 
