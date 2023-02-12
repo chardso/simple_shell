@@ -11,7 +11,6 @@ https://intranet.alxswe.com/concepts/350
 Write a simple UNIX command interpreter.
 
 ![](/shell.jpeg)
-
 ^ “The Gates of Shell”, by [Spencer cheng](https://twitter.com/spencerhcheng?t=DwLSuyvjkNLd7_7rHnUFwQ&s=09) , featuring [Julien Barbier](https://twitter.com/julienbarbier42?t=aYUjppVyruQUVkDuBGDXog&s=09) 
 
 # how to built a simple shell.
