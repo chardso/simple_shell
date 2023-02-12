@@ -6,6 +6,11 @@ https://intranet.alxswe.com/concepts/64</li>
 **<li>Approaching the project</li>**
 https://intranet.alxswe.com/concepts/350
 
+# Background Context
+
+Write a simple UNIX command interpreter.
+
+
 
 # how to built a simple shell.
 
